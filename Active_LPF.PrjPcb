@@ -50,7 +50,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=Active_LPF_Sch.SchDoc
+DocumentPath=Active_LPF_HPF_Sch.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -67,7 +67,7 @@ GenerateClassCluster=0
 DocumentUniqueId=OVEPVRFT
 
 [Document2]
-DocumentPath=Active_LPF_PCB.PcbDoc
+DocumentPath=Active_LPF_HPF_PCB.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
